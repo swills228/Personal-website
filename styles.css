@@ -1,0 +1,27 @@
+body {
+  background: #90C8AC;
+}
+
+hr { border-style: none;
+border-top: dotted;
+border-color: grey;
+border-width: 5px;
+width: 30%; }
+
+H1 {
+  color: #003865;
+}
+h2  {
+  color: #557B83
+}
+
+th {
+ color: #557B83
+}
+
+form {
+ background-color: grey;
+ border-style: dashed;
+ border-color: blue;
+ border-width: 2px
+}
